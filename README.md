@@ -27,4 +27,3 @@ $ yarn serve
 ### Documentation :clipboard:
 
 - [Reactjs docs](https://pt-br.reactjs.org/docs/getting-started.html)
-- [Material-UI docs](https://material-ui.com/)
