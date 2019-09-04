@@ -3,6 +3,7 @@
 ### Quick Start :computer:
 
 ```sh
+# clone the project
 $ git clone https://github.com/iguit0/reactmmerce.git
 $ cd reactmmerce
 
