@@ -1,9 +1,9 @@
 import { createActions } from "reduxsauce";
 
 export const { Types, Creators } = createActions({
-  signInRequest: ["email", "passwd"],
-  signInSuccess: ["user"],
-  signInFail: ["error"],
+  signinRequest: ["email", "passwd"],
+  signinSuccess: ["user"],
+  signinFail: ["error"],
 
   authRequest: null,
   authSuccess: ["user"],
