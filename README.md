@@ -9,6 +9,8 @@
   :six_pointed_star: 11ª semana OmniStack
 </h2>
 
+<hr/>
+
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -41,4 +43,4 @@ Esse projeto está sob a licença MIT. [Clique aqui](LICENSE.md) para mais detal
 
 ---
 
-Feito com ❤️ by **[iguit0](https://github.com/iguit0)**
+<code>Desenvolvido com ❤️ por **[iguit0](https://github.com/iguit0)**</code>
