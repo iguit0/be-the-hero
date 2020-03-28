@@ -5,11 +5,10 @@
 <h2 align="center">
 
   <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
-  <br/><br/>
+  <br/>
   :six_pointed_star: 11ª semana OmniStack
 </h2>
 
-<hr/>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
