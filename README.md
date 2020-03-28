@@ -1,17 +1,44 @@
-<h1 align="center">Be the Hero</h1>
+<h1 align="center">
+    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+</h1>
 
-### Quick Start :computer:
+<h2 align="center">
 
-```sh
-# clone the project
-$ git clone https://github.com/iguit0/be-the-hero.git
-$ cd be-the-hero
-```
+  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
+  <br/><br/>
+  :six_pointed_star: 11ª semana OmniStack
+</h2>
 
-### To do :pushpin:
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-- [x] ...
+<br>
 
-### Documentation :clipboard:
+<h3 align="center">:rocket: Tecnologias</h3>
 
-- [React.js docs](https://pt-br.reactjs.org/docs/getting-started.html)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+Extras:
+
+- [Express](https://expressjs.com/pt-br/)
+- [KnexJS](http://knexjs.org/)
+
+<h3 align="center">💻 Projeto</h3>
+
+O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ONGs com campanhas abertas. Tornar cada vez mais acessivel o conhecimento sobre as ONGs existentes, seja no bairro, cidade, estado ou país.
+
+<h3 align="center">:memo: Licença</h3>
+
+Esse projeto está sob a licença MIT. [Clique aqui](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ❤️ by **[iguit0](https://github.com/iguit0)**
