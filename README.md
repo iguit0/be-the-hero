@@ -6,7 +6,7 @@
 
   <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
   <br/>
-  :six_pointed_star: 11ª semana OmniStack
+  :rocket:⚛ 11ª semana OmniStack
 </h2>
 
 
